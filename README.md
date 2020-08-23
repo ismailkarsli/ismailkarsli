@@ -1,6 +1,6 @@
+- 🔭 I’m currently working on boş işler
 <img src="https://raw.githubusercontent.com/ismailkarsli/ismailkarsli/master/catJam.gif">
 
-- 🔭 I’m currently working on boş işler
 <!--
 - 🔭 I’m currently working on boş işler
 - 🌱 I’m currently learning ...
