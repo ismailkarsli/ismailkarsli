@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on boş işler
-<img src="https://raw.githubusercontent.com/ismailkarsli/ismailkarsli/master/catJam.gif">
+<img src="https://raw.githubusercontent.com/ismailkarsli/ismailkarsli/master/catJam.gif" width="448">
 
 <!--
 - 🔭 I’m currently working on boş işler
