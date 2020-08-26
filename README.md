@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ismailkarsli/ismailkarsli/master/catJam.gif" width="672">
+<img src="https://raw.githubusercontent.com/ismailkarsli/ismailkarsli/master/catJam.gif" width="560">
 - 🔭 I’m currently working on boş işler
 
 <!--
