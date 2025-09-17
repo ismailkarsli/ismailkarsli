@@ -1,3 +1,3 @@
 JavaScript Enjoyer
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailkarsli)
+![ismailkarsli's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailkarsli)
